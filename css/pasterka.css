@@ -1,0 +1,13 @@
+.newStyle{
+    
+    color: red;
+    
+    position: fixed;
+    top:300px;
+    left: 150px;
+
+}
+.big{
+    font-size: 100px;
+    
+}
